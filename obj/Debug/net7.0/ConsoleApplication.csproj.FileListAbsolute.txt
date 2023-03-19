@@ -1,0 +1,15 @@
+/home/joelsonalves/Dev/c#/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication
+/home/joelsonalves/Dev/c#/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication.deps.json
+/home/joelsonalves/Dev/c#/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication.runtimeconfig.json
+/home/joelsonalves/Dev/c#/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication.dll
+/home/joelsonalves/Dev/c#/ConsoleApplication/bin/Debug/net7.0/ConsoleApplication.pdb
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.csproj.AssemblyReference.cache
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.AssemblyInfoInputs.cache
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.AssemblyInfo.cs
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.csproj.CoreCompileInputs.cache
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.dll
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/refint/ConsoleApplication.dll
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.pdb
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/ConsoleApplication.genruntimeconfig.cache
+/home/joelsonalves/Dev/c#/ConsoleApplication/obj/Debug/net7.0/ref/ConsoleApplication.dll
